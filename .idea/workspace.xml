@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a66192d-e810-4852-9714-63f0ab35635f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tueZeLATzJ3ofcuGupLgUDdGBL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a66192d-e810-4852-9714-63f0ab35635f" name="Default Changelist" comment="" />
+      <created>1623623458350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623623458350</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="192" width="514" height="408" key="#Gradle" timestamp="1623624450864">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="452" y="192" width="514" height="408" key="#Gradle/63.27.1303.741@63.27.1303.741" timestamp="1623624450864" />
+    <state x="234" y="131" width="950" height="530" key="#PSD" timestamp="1623624649415">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="234" y="131" width="950" height="530" key="#PSD/63.27.1303.741@63.27.1303.741" timestamp="1623624649415" />
+    <state x="488" y="140" key="FileChooserDialogImpl" timestamp="1623624373821">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="488" y="140" key="FileChooserDialogImpl/63.27.1303.741@63.27.1303.741" timestamp="1623624373821" />
+    <state x="188" y="31" key="SettingsEditor" timestamp="1623624068196">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="188" y="31" key="SettingsEditor/63.27.1303.741@63.27.1303.741" timestamp="1623624068196" />
+    <state x="189" y="131" width="1030" height="529" key="psd.add.library.dependency.panel.dimension" timestamp="1623624647768">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="189" y="131" width="1030" height="529" key="psd.add.library.dependency.panel.dimension/63.27.1303.741@63.27.1303.741" timestamp="1623624647768" />
+  </component>
+</project>
